@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# The downloaded repo archive (keep only cookie_cats.csv in Data/)
+Data/Mobile-Games-A-B-Testing-with-Cookie-Cats-master/
+*.zip
